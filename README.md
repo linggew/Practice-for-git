@@ -8,7 +8,7 @@
 
 
 ### some tools
-+ Markdown: should be a format of editing. I find it is used into github readme.md  <https://www.runoob.com/markdown/md-title.html>
++ Markdown: should be a format of editing. I find it is used into github README.md  <https://www.runoob.com/markdown/md-title.html>
 + react native tutorial: <https://reactnative.dev/docs/getting-started>
 + git: <https://www.atlassian.com/git/glossary>
 
