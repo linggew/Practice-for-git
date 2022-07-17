@@ -20,3 +20,9 @@
   <https://medium.com/javarevisited/top-5-frameworks-to-create-cross-platform-android-and-ios-apps-in-2020-d02edf3d01f1#:~:text=Native%20Script,-If%20somehow%20you&text=NativeScript%20is%20a%20free%20and,and%20using%20Angular%20and%20Vuejs.>
 - why use framework <https://www.netsolutions.com/insights/what-is-a-framework-in-programming/#:~:text=The%20purpose%20of%20a%20framework,programming%20time%2C%20and%20simplifies%20testing.>
 - hello
+
+# hello
+
+# hi here is a test in main
+
+# this is test from a
